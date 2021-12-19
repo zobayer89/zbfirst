@@ -1,0 +1,16 @@
+img {
+max-width: 100%;
+}
+
+/* #header_area {
+     padding: 15px 0;
+} */
+
+#header_area.left_menu .col-md-3 {
+     order: 2;
+}
+
+
+#header_area.left_menu .col-md-9 {
+     order: 1;
+}
