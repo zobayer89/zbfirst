@@ -9,7 +9,7 @@ function zb_customizar_register($wp_customize){
     ));
 
     $wp_customize->add_setting('zb_logo', array(
-        'default'=>get_bloginfo('template_directory').'/img/rsz_logo_en.png',
+        'default'=>get_bloginfo('template_directory').'/img/logo_en.png',
 
     ));
 

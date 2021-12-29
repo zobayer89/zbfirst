@@ -3,5 +3,5 @@
  * Sidebar Area
  */
 
- dynamic_sidebar( 'sidebar-1' );
+ dynamic_sidebar('sidebar-1');
 ?>
